@@ -27,3 +27,9 @@
     padding: 15px 40px;
     transition: all ,5s;
 }
+.navbar ul li a:hover{
+    background-color: white;
+    color:orange;
+    box-shadow: 0 0 10px white;
+
+}
