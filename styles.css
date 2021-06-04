@@ -1,3 +1,15 @@
+
+
+@import url("https://fonts.googleapis.com/css?family=Arimo:400|Raleway:300,400,700&display=swap");
+body {
+  font-family: "Raleway", sans-serif;
+  color: #fff;
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 300;
+  position: relative;
+}
+
 .navbar{
     display: flex;
     justify-content: center;
@@ -23,13 +35,15 @@
 }
 .navbar ul li a{
     text-decoration: none;
-    color: black;
+    color:black;
     padding: 15px 40px;
-    transition: all ,5s;
+    transition: all ;
+    letter-spacing: 1px;
+    cursor: pointer;
+    text-transform: uppercase;
 }
 .navbar ul li a:hover{
-    background-color: white;
-    color:orange;
-    box-shadow: 0 0 10px white;
-
+   
+    color:red;
+    
 }
