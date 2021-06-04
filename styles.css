@@ -1,0 +1,10 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    background-color:white;
+    position: sticky;
+    top: 0;
+    height: 70px;
+    
+}
