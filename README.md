@@ -16,7 +16,7 @@ No known bugs yet
 ## Technologies Used
 * HTML
 * CSS
-##Live site
+## Live site
 https://marykamau2.github.io/portfolio/
 ## Support and contact details
 If you want to contact me, email me on mmarynjerikamau@gmail.com
