@@ -68,16 +68,19 @@ nav ul li a:hover{
 
 .content p{
     font-family: sans-serif;
-    font-size: 22px;
-    color:black;
-    letter-spacing: 1px;
+    font-size: 30px;
+    color: black;
+    letter-spacing: 5px;
     text-align: right;
-    padding-top: 350px;
+    padding-top: 480px;
     text-transform: uppercase;
     
 }
+.content p:hover{
+    color: red;
+}
 .contact-form-btn{
-    float:right ;
+    float:left ;
     text-transform: uppercase;
     padding: 12px 50px;
     border-radius: 20px;
