@@ -143,6 +143,7 @@ nav ul li a:hover{
     background-repeat: no-repeat;
     background-size: cover;
     padding: 20px;
+    font-family: sans-serif;
 }
 
 #photo{
@@ -179,16 +180,23 @@ h1{
     text-align: center;
     margin: 10px 60px 30px 60px;
 }
+.container{
+    font-family: sans-serif;
+}
 .projects{
     border: 0px solid grey;
     background-repeat: no-repeat;
     background-size: cover;
     background-color: black;
+    font-family: sans-serif;
    
 }
 
 .projects h1{
-    color: honeydew;
+    color: brown;
+}
+.projects h1:hover{
+    color: yellow;
 }
 
 
@@ -207,6 +215,12 @@ h1{
     color: whitesmoke;
     font-size: medium;
    
+}
+.spacing p a{
+    color: chocolate;
+}
+.spacing p a:hover{
+    color: chartreuse;
 }
 .about h1{
     color: brown;
