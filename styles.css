@@ -225,7 +225,7 @@ h1{
     color: brown;
 }
 
-/* .contact-section{
+ .contact-section{
     background: grey;
     background-size: cover;
     padding: 40px 0;
@@ -245,7 +245,7 @@ h1{
     padding: 0 10px;
     overflow: hidden;
   }
-  .contact-form-text{
+  /* .contact-form-text{
     display: block;
     width: 100%;
     box-sizing: border-box;
@@ -277,4 +277,4 @@ h1{
   
   .contact-form-btn:hover{
     background: blue;
-  }  */
+  }   */
