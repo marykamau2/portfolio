@@ -261,7 +261,7 @@ h1{
     background: none;
     border: 2px solid black;
   }
- /*  textarea.contact-form-text{
+  textarea.contact-form-text{
     resize: none;
     height: 120px;
   }
@@ -277,4 +277,4 @@ h1{
   
   .contact-form-btn:hover{
     background: blue;
-  }     */
+  }     
